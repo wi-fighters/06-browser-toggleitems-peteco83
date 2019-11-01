@@ -1,4 +1,3 @@
-
 const button = document.querySelector('button')
 const list = document.querySelector('ul')
 
@@ -33,4 +32,4 @@ callbackSelect = (event) => {
 
 destinations.forEach(destination => {
     destination.addEventListener("click", callbackSelect)
-})
+});
