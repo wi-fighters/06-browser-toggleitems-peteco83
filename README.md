@@ -1,11 +1,21 @@
 # Toggle Favourite Destinations
 
-1. Create a list of your favourite destinations.
+Create a list of your favourite destinations with a button to toggle the list
 
-2. Above this list, create a button for toggling the list of your favourite destinations.
+**Requirements:**
+- use Bootstrap CDN
+- use `Element.classList` methods
 
-3. **Optional:** Style the list to your pleasing.
+**Example:**
 
-> Hint: Refer to the representation below, for an idea of what your result should look like.
+![screenshot](toggle.gif)
 
-![screenshot](toggle-item.gif)
+**Bonus:**
+
+- Let the user select the favourite destination
+- Show in the event object
+- Style the list to your pleasing.
+
+![screenshot](select.gif)
+
+
